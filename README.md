@@ -1,6 +1,16 @@
 
-# Financial Analysis
+# Financial Analysis and Stock Prediction - Testing Repository
 
-In this project we will learn how can we analysis Financial Stocks with Python. This project is my Graduation Project. I would like to share with you.
+## Repository Overview
 
-Specification coming soon....
+This repository is used for testing and experimentation related to the final project on financial analysis and stock price prediction using Long Short-Term Memory (LSTM) neural networks. This is a sandbox environment where various features, changes, and improvements are tested before they are integrated into the main project repository.
+
+
+
+## Technologies Used
+
+- **Programming Language:** Python
+- **Libraries:** TensorFlow, Keras, Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebooks, Google Colab
+
+
